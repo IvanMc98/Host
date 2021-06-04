@@ -1,6 +1,6 @@
 <?php
 /* Inicio carga las clases iniciales */
-define("RUTA","/TiendaOnline/");
+define("RUTA","/https://github.com/IvanMc98/Host.git/");
 define("LLAVE","tiendahuerto6us");
 require_once("libs/MySQLdb.php");
 require_once("libs/Controlador.php");
